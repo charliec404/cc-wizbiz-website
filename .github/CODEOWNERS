@@ -1,0 +1,11 @@
+# Every file, unless a later rule overrides it
+*               @charliec404
+
+# Front-end markup and styles
+*.html          @Ben-Dev @chen-dev
+css/            @chen-dev
+js/             @Dara-dev
+
+# Anything that changes how the project is run
+.github/        @charliec404
+tests/          @eli-test
